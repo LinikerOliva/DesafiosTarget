@@ -1,0 +1,17 @@
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\App.exe
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\App.deps.json
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\App.runtimeconfig.json
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\App.dll
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\App.pdb
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.dll
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\refint\App.dll
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.pdb
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\linik\OneDrive\Área de Trabalho\Liniker\Projetos\App\obj\Debug\net6.0\App.csproj.CopyComplete
